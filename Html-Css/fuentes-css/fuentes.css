@@ -1,0 +1,20 @@
+@font-face {
+    font-family: hansip ;
+    src: url("hansip/Hansip.ttf");
+}
+@font-face {
+    font-family: hansip2 ;
+    src: url("hansip/Capellen.ttf");
+}
+.han {
+    font-family: "hansip";
+    color: red;
+    font-size: 24px;
+}
+
+.han2 {
+    font-family: "hansip2";
+    color: rgb(0, 255, 55);
+    font-size: 24px;ç
+}
+
